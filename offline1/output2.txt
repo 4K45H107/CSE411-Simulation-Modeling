@@ -1,0 +1,49 @@
+1. Next Event: Customer 1 Arrival
+
+----------No. of customer delayed 1----------
+
+2. Next Event: Customer 1 Deputure
+3. Next Event: Customer 2 Arrival
+
+----------No. of customer delayed 2----------
+
+4. Next Event: Customer 3 Arrival
+
+----------No. of customer delayed 3----------
+
+5. Next Event: Customer 2 Deputure
+6. Next Event: Customer 4 Arrival
+
+----------No. of customer delayed 4----------
+
+7. Next Event: Customer 3 Deputure
+8. Next Event: Customer 4 Deputure
+9. Next Event: Customer 5 Arrival
+
+----------No. of customer delayed 5----------
+
+10. Next Event: Customer 6 Arrival
+
+----------No. of customer delayed 6----------
+
+11. Next Event: Customer 7 Arrival
+
+----------No. of customer delayed 6----------
+
+12. Next Event: Customer 5 Deputure
+13. Next Event: Customer 8 Arrival
+
+----------No. of customer delayed 7----------
+
+14. Next Event: Customer 9 Arrival
+
+----------No. of customer delayed 7----------
+
+15. Next Event: Customer 6 Deputure
+16. Next Event: Customer 10 Arrival
+
+----------No. of customer delayed 8----------
+
+17. Next Event: Customer 7 Deputure
+18. Next Event: Customer 8 Deputure
+19. Next Event: Customer 9 Deputure
